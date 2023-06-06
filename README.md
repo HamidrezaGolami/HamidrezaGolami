@@ -23,7 +23,7 @@ building artificial intelligence.
 ```txt
 Python  97 hours   ██████████████████████░░░   87.58 %
 Github 14 hours    ███                         12.42 %
-The Whole Week     ██████████████████████░░░   +  ███ = my week = █████████████████████████
+The Whole Week     ██████████████████████░░░   +  ███ = my week = █████████████████████████   100.0 %
 ```
 
 
