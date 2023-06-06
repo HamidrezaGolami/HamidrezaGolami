@@ -31,7 +31,7 @@
 
 - 🫶 💌 if in your opinion I was able to write and present good and useful content, Please follow me on github:
 
-- 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**Follow Me**</a>
+- 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaGolami&show_icons=true&theme=radical"/>
