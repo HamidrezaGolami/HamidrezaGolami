@@ -34,7 +34,7 @@ Python  1 years   ████████████████████�
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hamidreza_icons=true&theme=gotham" alt="HamidrezaGolami" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaGolami icons=true&theme=gotham" alt="HamidrezaGolami" />
 
 
 
