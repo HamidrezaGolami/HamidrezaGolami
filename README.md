@@ -21,7 +21,9 @@ building artificial intelligence.
 <!--START_SECTION:waka-->
 
 ```txt
-Python  1 years   ██████████████████████░░░   87.58 %
+Python  97 hours   ██████████████████████░░░   87.58 %
+Github 14 hours    ███                         12.42 %
+The Whole Week     ██████████████████████░░░   +  ███ = my week = █████████████████████████
 ```
 
 
