@@ -27,10 +27,7 @@
 
 - ⌨️ 🪪 What programming languages do I program with? 
 
-  
 <p align=left> <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">  
-  
--Python- 
   
 - 💫 🌈 How old am i? 12
 
