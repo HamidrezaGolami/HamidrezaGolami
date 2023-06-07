@@ -31,11 +31,8 @@
 
 - 🫶 💌 if in your opinion I was able to write and present good and useful content, Please follow me on github:
 
-- 📤 📜 github address : **👇**
+- 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
 
-  <p align=center> <img height="70" src="https://img.freepik.com/vector-premium/instagram-como-bocadillo-dialogo-corazon-formas-coloridas-iconos-notificacion-redes-sociales-fondo_248162-2038.jpg
-">
-  
-<a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
+
   
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaGolami&show_icons=true&theme=radical"/>
