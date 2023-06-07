@@ -26,23 +26,8 @@
 - ✅ 🌐 I have several completed projects? 7
 
 - ⌨️ 🪪 What programming languages do I program with? 
-  
-{
-  "role": "programmer",
-  "exp": 14,
-  "skills": [
-      "Python"
-  ],
-  "interests": [
-      "Learning New Things",
-      "Vlog",
-      "Music",
-      "Hiking",
-      "Traveling"
-   
-  ],
-  "loc": "🇮🇷 IRAN"
-  }
+
+<p align=left> <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">  
   
 - 💫 🌈 How old am i? 12
 
