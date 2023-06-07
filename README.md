@@ -25,7 +25,26 @@
 
 - ✅ 🌐 I have several completed projects? 7
 
-- 💫 🌈 How old are you? 12
+- ⌨️ 🪪 What programming languages do I program with? 
+  
+{
+  "role": "programmer",
+  "exp": 14,
+  "skills": [
+      "Python"
+  ],
+  "interests": [
+      "Learning New Things",
+      "Vlog",
+      "Music",
+      "Hiking",
+      "Traveling"
+   
+  ],
+  "loc": "🇮🇷 IRAN"
+  }
+  
+- 💫 🌈 How old am i? 12
 
 - 🐧 🐷 My favorite animal : Penguin and Koala
 
