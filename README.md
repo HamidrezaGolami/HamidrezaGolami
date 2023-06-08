@@ -117,9 +117,3 @@
 
 - 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
 
-
-  
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezagolami&show_icons=true&locale=en&layout=compact" alt="hamidrezagolami" /></p>
-
-  
