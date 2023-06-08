@@ -11,7 +11,7 @@
 
 
 
-<p align=center><img height="200" src="https://thecolor.blog/wp-content/uploads/2021/10/GIF.gif">
+<p align=left><img height="200" src="https://thecolor.blog/wp-content/uploads/2021/10/GIF.gif">
   
   
 
@@ -41,5 +41,5 @@
   
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HamidrezaGolami&show_icons=true&theme=radical"/>
 
-Top Langs
+
   
