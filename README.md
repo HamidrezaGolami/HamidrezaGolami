@@ -37,8 +37,10 @@
 
 <p><img align=left src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezagolami&theme=transparent&show_icons=true&locale=en&layout=compact" alt="hamidrezagolami" /></p>
 
--
+- Github stats
 
 <p>&nbsp;<img align=left src="https://github-readme-stats.vercel.app/api?username=hamidrezagolami&theme=transparent&show_icons=true&locale=en" alt="hamidrezagolami" /></p>
+
+- Github status
 
 <p><img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezagolami&theme=transparent&" alt="hamidrezagolami" /></p>
