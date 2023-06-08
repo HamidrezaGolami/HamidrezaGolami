@@ -43,7 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamidrezagolami&theme=transparent&show_icons=true&locale=en" alt="hamidrezagolami" /></p>
 
-
-
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezagolami&theme=transparent">Learn more on myGitHub page</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamidrezagolami&" alt="hamidrezagolami" /></p>
