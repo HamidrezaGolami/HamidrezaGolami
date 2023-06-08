@@ -39,7 +39,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezagolami&show_icons=true&locale=en&layout=compact" alt="hamidrezagolami" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamidrezagolami&show_icons=true&locale=en&layout=compact" alt="hamidrezagolami" /></p>
 
 
 
