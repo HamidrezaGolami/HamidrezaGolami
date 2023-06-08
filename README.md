@@ -24,6 +24,28 @@
 
 - ⚡ Fun fact **Did you know that the Simpsons predicted the future?**
 
+
+
+
+
+-  🤓 😚 Hello again. my name is Hamid Reza Gholami. I am a programmer.
+  
+-  😽 👻 💓 Things I can't **live** without : **</>**
+  
+-  ⏰ 🧑🏼‍💻  I **code** a few hours a day? Usually </2> to </4> hours
+<p align=left> <img width="600" height="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+- ✅ 🌐 I have several completed projects? 7
+
+- 💫 🌈 How old am i? 12
+
+- 🐧 🐷 My favorite animal : Penguin and Koala
+
+- 🫶 💌 if in your opinion I was able to write and present good and useful content, Please follow me on github:
+
+- 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -86,34 +108,4 @@
 
  
 
-
-
-
-
-
-
-
-
-
-
--  🤓 😚 Hello again. my name is Hamid Reza Gholami. I am a programmer.
-  
--  😽 👻 💓 Things I can't **live** without : **</>**
-  
--  ⏰ 🧑🏼‍💻  I **code** a few hours a day? Usually </2> to </4> hours
-<p align=left> <img width="600" height="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- ✅ 🌐 I have several completed projects? 7
-
-- ⌨️ 🪪 What programming languages do I program with? 
-
-<p align=left> <img width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png">  
-  
-- 💫 🌈 How old am i? 12
-
-- 🐧 🐷 My favorite animal : Penguin and Koala
-
-- 🫶 💌 if in your opinion I was able to write and present good and useful content, Please follow me on github:
-
-- 📤 📜 github address : <a href="https://github.com/HamidrezaGolami">**GitHub address**</a>
 
